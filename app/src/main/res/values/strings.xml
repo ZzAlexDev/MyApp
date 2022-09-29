@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contact_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_text">Главная</string>
+    <string name="logo_text_1">Courses</string>
+    <string name="logo_text_2">App</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень:</string>
+    <string name="course_desc">В ходе урока мы разработаем дизайн для страницы с отображением курса. На странице будет отображаться полная информация относительно курса. Чуть позже мы научимся переходить на эту страницу и выполнять действия на ней.</string>
+
+
+</resources>
